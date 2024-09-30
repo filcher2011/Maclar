@@ -6,3 +6,6 @@ Welcome to the Maclar documentation. In this documentation we will look at what 
 - [What the browser can do](#About)
 - [Download](#About)
 - [Project support](#About)
+
+# About
+Maclar - This is a browser that wants you to comfortably spend time on the Internet. Without advertising and any statistics for companies.
