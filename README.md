@@ -8,4 +8,4 @@ Welcome to the Maclar documentation. In this documentation we will look at what 
 - [Project support](#About)
 
 # About
-Maclar - This is a browser that wants you to comfortably spend time on the Internet. Without advertising and any statistics for companies.
+Maclar - This is a browser that wants you to comfortably spend time on the Internet. Without advertising and any statistics for companies. Maclar was created by filcher in 2025 for Windows, Linux and Mac operating systems.
